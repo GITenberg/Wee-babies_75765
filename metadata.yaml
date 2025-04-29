@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '35818'
     url: http://www.gutenberg.org/2009/agents/35818
     wikipedia: https://en.wikipedia.org/wiki/Ida_Waugh
+covers:
+- cover_type: archival
+  image_path: 75765-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanchard, Amy Ella
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8406
     wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75765#Wee-babies
 gutenberg_issued: '2025-03-31'
 gutenberg_type: Text
 identifiers:
